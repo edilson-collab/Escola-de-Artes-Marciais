@@ -1,4 +1,4 @@
-package entidade;
+package Entidade;
 
 public class Aluno {
 	private String cpf;
@@ -89,4 +89,5 @@ public class Aluno {
 	}
 	
 	}
+
 
