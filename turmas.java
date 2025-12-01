@@ -1,4 +1,4 @@
-package entidade;
+package Entidade;
 
 public class Turma {
 	private String horarios;
