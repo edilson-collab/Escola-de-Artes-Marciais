@@ -7,6 +7,7 @@ public class servico_gerais extends funcionarios{
     public servico_gerais(String matricula, String CPF, String nome, String dataNascimento,
 			String agencia, String numeroConta, int experiencia, String email, 
 			List<String> telefones, float id_servico_gerais, String turno) {
+			super(matricula, CPF, nome, dataNascimento, agencia, numeroConta, experiencias, email, telefones);
 
             this.id_servico_gerais=id_servico_gerais;
             this.turno=turno;	
